@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 8 (Semaphore)", "Task 8 (Semaphore)\Task 8 (Semaphore).vcxproj", "{5942B29D-1A10-44A1-AA25-41C5B2C32DCD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "UnitTest1\UnitTest1.vcxproj", "{285AC325-8EB7-44C9-AB79-A97B435A338D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5942B29D-1A10-44A1-AA25-41C5B2C32DCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5942B29D-1A10-44A1-AA25-41C5B2C32DCD}.Debug|Win32.Build.0 = Debug|Win32
+		{5942B29D-1A10-44A1-AA25-41C5B2C32DCD}.Release|Win32.ActiveCfg = Release|Win32
+		{5942B29D-1A10-44A1-AA25-41C5B2C32DCD}.Release|Win32.Build.0 = Release|Win32
+		{285AC325-8EB7-44C9-AB79-A97B435A338D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{285AC325-8EB7-44C9-AB79-A97B435A338D}.Debug|Win32.Build.0 = Debug|Win32
+		{285AC325-8EB7-44C9-AB79-A97B435A338D}.Release|Win32.ActiveCfg = Release|Win32
+		{285AC325-8EB7-44C9-AB79-A97B435A338D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

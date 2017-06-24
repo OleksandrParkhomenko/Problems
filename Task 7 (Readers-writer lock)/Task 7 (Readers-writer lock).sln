@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 7 (Readers-writer lock)", "Task 7 (Readers-writer lock)\Task 7 (Readers-writer lock).vcxproj", "{711C7F57-B8DD-4D6C-ACA8-46DD948C87FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "UnitTest1\UnitTest1.vcxproj", "{0E1A3B97-D4F9-4E20-BFEC-A4D4BB49065E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711C7F57-B8DD-4D6C-ACA8-46DD948C87FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{711C7F57-B8DD-4D6C-ACA8-46DD948C87FB}.Debug|Win32.Build.0 = Debug|Win32
+		{711C7F57-B8DD-4D6C-ACA8-46DD948C87FB}.Release|Win32.ActiveCfg = Release|Win32
+		{711C7F57-B8DD-4D6C-ACA8-46DD948C87FB}.Release|Win32.Build.0 = Release|Win32
+		{0E1A3B97-D4F9-4E20-BFEC-A4D4BB49065E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E1A3B97-D4F9-4E20-BFEC-A4D4BB49065E}.Debug|Win32.Build.0 = Debug|Win32
+		{0E1A3B97-D4F9-4E20-BFEC-A4D4BB49065E}.Release|Win32.ActiveCfg = Release|Win32
+		{0E1A3B97-D4F9-4E20-BFEC-A4D4BB49065E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
